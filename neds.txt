@@ -1,0 +1,1 @@
+vless://dd963d2a-10b8-46d4-bcb2-a15ea25c00d3@ir4.ramimax.com:8443?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#MAXvpn-irancell-1471
